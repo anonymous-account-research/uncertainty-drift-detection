@@ -1,0 +1,40 @@
+# Ignore the node_modules directory
+Experiment_KDDCUP99/kdd99-10-percent_clean.csv
+Experiment_KDDCUP99/results_MCDropout_kdd99.pickle
+Experiment_KDDCUP99/results_MCDropout_kdd992.pickle
+
+Experiment_Electricity/results_MCDropout_elec2.pickle
+Experiment_GasSensorArray/results_MCDropout_gassensor2.pickle
+
+Experiment_RialtoBridge/results_MCDropout_rialto.pickle
+Experiment_RialtoBridge/rialto.arff
+
+Experiment_GasSensorArray/results_MCDropout_gassensor.pickle
+
+Experiment_InsectsAbrupt/results_MCDropout_INSECTS-abrupt_balanced_norm.pickle
+
+.DS_Store
+
+Experiment_RialtoBridge/__pycache__/
+__pycache__/
+
+Syn_Experiment_Mixed_Abrupt/__pycache__/
+Syn_Experiment_Friedman_Abrupt/__pycache__/
+
+.ipynb_checkpoints/
+
+.DS_Store~remotes_origin_mixed_v2
+# Ignore Logs
+# logs
+# *.log
+
+# Ignore the build directory
+# /dist
+
+# The file containing environment variables 
+# .env
+
+# Ignore IDE specific files
+.idea/
+# .vscode/
+# *.sw*
